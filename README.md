@@ -1,4 +1,4 @@
-## Company Toolbox v1.00
+## Company Toolbox v1.00 [DISCONTINUED - v2.00 version rewritten in PyQT5 + SQL coming soon!]
 
 Toolbox is an program that I wrote especially for the needs of the company I work for.  Offers features like:
 
